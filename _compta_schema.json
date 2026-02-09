@@ -1,0 +1,121 @@
+{
+  "ecritures_comptables": {
+    "count": 0,
+    "columns": [
+      "id",
+      "date_ecriture",
+      "numero_piece",
+      "journal",
+      "compte_debit",
+      "compte_credit",
+      "montant",
+      "libelle",
+      "reference_operation_caisse",
+      "statut",
+      "created_at",
+      "controlled_at",
+      "controlled_by",
+      "validated_at",
+      "validated_by",
+      "piece_path",
+      "piece_hash"
+    ],
+    "sample": null
+  },
+  "journal_entries": {
+    "count": 10,
+    "columns": [
+      "id",
+      "date",
+      "reference",
+      "description",
+      "status",
+      "payment_method",
+      "project_id",
+      "created_by",
+      "created_at",
+      "journal",
+      "controlled_at",
+      "controlled_by",
+      "validated_at",
+      "validated_by",
+      "piece_path",
+      "piece_hash"
+    ],
+    "sample": {
+      "id": 10,
+      "date": "2026-01-09",
+      "reference": "TEST-OD-2026-01-09-8872",
+      "description": "Test écriture multi-lignes (aplatissement en paires)",
+      "status": "DRAFT",
+      "payment_method": null,
+      "project_id": null,
+      "created_by": 9,
+      "created_at": "2026-01-09 15:12:31",
+      "journal": "OD",
+      "controlled_at": null,
+      "controlled_by": null,
+      "validated_at": null,
+      "validated_by": null,
+      "piece_path": null,
+      "piece_hash": null
+    }
+  },
+  "journal_lines": {
+    "count": 25,
+    "columns": [
+      "id",
+      "journal_entry_id",
+      "account_id",
+      "debit",
+      "credit"
+    ],
+    "sample": {
+      "id": 25,
+      "journal_entry_id": 10,
+      "account_id": 3,
+      "debit": 0.0,
+      "credit": 120.0
+    }
+  },
+  "achats": {
+    "count": 0,
+    "columns": [
+      "id",
+      "date",
+      "supplier",
+      "amount",
+      "description",
+      "status",
+      "controlled_at",
+      "controlled_by",
+      "validated_at",
+      "validated_by",
+      "piece_path",
+      "piece_hash",
+      "compte_debit",
+      "compte_credit"
+    ],
+    "sample": null
+  },
+  "paiements": {
+    "count": 0,
+    "columns": [
+      "id",
+      "date",
+      "amount",
+      "description",
+      "compte",
+      "status",
+      "controlled_at",
+      "controlled_by",
+      "validated_at",
+      "validated_by",
+      "piece_path",
+      "piece_hash",
+      "compte_debit",
+      "compte_credit"
+    ],
+    "sample": null
+  }
+}

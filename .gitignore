@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Base de données SQLite
+*.db
+*.db3
+*.db-shm
+*.db-wal
+data/*.db
+data/*.db3
+backups/*.db
+
+# Uploads et fichiers temporaires
+uploads/
+temp/
+tmp/
+
+# Logs
+logs/
+*.log
+
+# Vector store (AI)
+vector_store/
+vector_memory.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode-test/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Tesseract training data (volumineux)
+# Garder eng.traineddata et fra.traineddata
+*.traineddata
+!eng.traineddata
+!fra.traineddata

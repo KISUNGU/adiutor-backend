@@ -1,0 +1,154 @@
+
+
+Rapport de progrès de l’harmonisation du plan d’affaires pour l’usine 
+modulaire de production d’AflasafeRDC01  construit à Kalambo dans le 
+cadre du projet PICAGL 
+Par Dr. Patrick MURHULA CUBAKA,  
+ 
+1. Objectif de la Mission 
+J’ai été recruté par l’IITA pour harmoniser le plan d’affaires élaboré pour le fonctionnement de 
+l’usine de la production d’Aflasafe RDC01 à Kalambo. Cette harmonisation s’est basée sur les 
+recommandations formulées par sur le plan d’affaires de l’IITA après avoir fait une analyses 
+des  différentes modèles de  gestion  dans  d’autres pays qui  produisent  et commercialisent 
+l’Aflasafe. Le contrat a commencé le 30 novembre et devait s’étendre sur 15 jours, entre le 30 
+novembre et le 20 décembre. En plus du plan d’affaires et du rapport de la Banque mondiale, 
+j’ai également reçu le plan financier qui a servi de base pour l’évaluation financière de ce projet. 
+Au cours de cette mission, il a été convenu que l’harmonisation du plan d’affaires de l’IITA 
+s’appuierait sur les données disponibles dans le plan d’affaires et le plan financier de l’IITA et 
+que je ne réaliserais pas d’étude de marché en raison des contraintes de temps et des ressources 
+allouées à cette mission. 
+2. Méthodologie pour l’Harmonisation du Plan d’Affaires de l’IITA 
+Pour mener à bien cette mission et harmoniser le plan d’affaires proposé par l’IITA, les étapes 
+suivantes ont été suivies : 
+• Revue documentaire  
+J’ai procédé à une analyse approfondie du plan d’affaires élaboré par l’IITA et du rapport de 
+la Banque mondiale sur les expériences d’autres pays produisant et commercialisant déjà 
+Aflasafe. J’ai aussi analysé le plan financier qui a été utilisé pour faire l’évaluation financière 
+de l’usine de l’IITA Kalambo. 
+• Interactions avec l’Équipe Aflasafe de l’IITA 
+Des réunions ont été organisées avec l’équipe Aflasafe pour comprendre les limitations soulevés 
+dans les plan d’affaires IITA, valider les suggestions d’amélioration et clarifier les hypothèses 
+formulées en l’absence d’étude de marché. Étant donné que les estimations faites dans le plan 
+
+financier de IITA se basaient sur des données secondaires sans une étude de marché préalable, 
+ces réunions avec l’équipe IITA ont été cruciales pour assurer une cohérence des hypothèses 
+financières présentées dans ce plan financier. 
+• Participation à l’Atelier National sur la gestion des Aflatoxines  
+J’ai participé à l’Atelier National de Sensibilisation et d’Information sur les Aflatoxines et leur 
+Contrôle grâce à l’Utilisation d’Aflasafe RDC01. Cet atelier s’est tenu à Kinshasa du 19 au 20 
+décembre 2024. Au cours de cet atelier, j’ai fait un présentation sur le « Modèle d'exploitation 
+de  l'usine Aflasafe  :  rôles  de  parties  prenantes  et  analyse  de  la  rentabilité  de  la  technologie 
+Aflasafe ». Les discussions avec les participants lors de cette session ont permis de faire ressortir 
+plusieurs points essentiels à inclure dans le plan d’affaires. 
+• Amélioration du Plan d’Affaires IITA 
+J’ai méné des analyses du plan d’affaires de IITA et des propositions de la banque mondiale 
+tout en y intégrant les suggestions des parties prenantes, pour identifier les principaux aspects 
+nécessaires à l’harmonisation du plan d’affaires de IITA. 
+3. Limites majeurs constatées dans le plan d’affaire de l’IITA  
+La lecture de ces deux documents m’a permis de relever les gaps qui existe dans le business 
+plan de  l’IITA  et  de  relever  les  points  essentiels  à améliorer. Parmi ces  points  figurent 
+notamment : 
+- L’absence d’une étude de marché rigoureuse qui pourrait permettre un meilleur cadrage 
+du  projet  de  production  et de  la commercialisation et  d’Aflasafe RDC01 et son 
+évaluation financière solide. 
+- Le manque de justification des hypothèses émises dans le plan d’affaire, notamment sur 
+les quantités à vendre, le prix, etc. 
+- Le coût de revient dans différentes régions de vente n’est pas présenté dans ce plan 
+d’affaire et l’analyse du marché de ces régions n’est pas n’ont plus faite. 
+- L’analyse des clients potentiels de l’Aflasafe n’est pas présentée. 
+- Le modèle de gestion de l’usine n’est pas bien décrit et le rôle des parties prenantes n’y 
+est pas bien développé. 
+- Le plan  marketing  en  général, et particulièrement plan  opérationnel et le  plan  de 
+promotion , ne ressortent pas dans ce plan d’affaire de l’IITA. 
+- La stratégie de distribution ne ressort pas dans ce plan d’affaire. 
+
+- La partie financière ne présente pas les différentes parties nécessaires pour l’évaluation 
+financière d’un projet et ni indicateurs de rentabilité comme la VAN, le TRI, le délai de 
+récupération. Les  évaluations financières intègrent sont  souvent  faites  avec  des 
+hypothèses qui nécessitent d’être améliorées. 
+ 
+4. Progrès réalisés 
+4.1. Améliorations de la Section Descriptive 
+• Introduction et résumé : 
+L’introduction a été révisée pour expliquer clairement le problème des aflatoxines et 
+souligner l’importance d’Aflasafe RDC01. Une synthèse des indicateurs de rentabilité 
+financière de ce projet de production d’Aflasafe RDC01 a été aussi présentée dans le 
+résumé. 
+• Ciblage des Clients : 
+Les  clients  potentiels,  notamment  les  producteurs  agricoles,  les  transformateurs 
+industriels, les ONG, les instances gouvernementales, les coopératives agricoles et les 
+fournisseurs d’intrants, ont été décrits. Cependant, en raison de l’absence d’une étude 
+de marché, les acteurs clés spécifiques de chaque groupe cible restent à définir. 
+• Modèle de Gestion : 
+Un partenariat public-privé (PPP) a été proposé comme le modèle de gestion optimal 
+pour l’usine. Les discussions incluent les rôles de l’État et des entreprises privées, bien 
+que  des  travaux  supplémentaires  soient  nécessaires  pour  définir  les  rôles  et 
+responsabilités précis et le type de partenariat public privé le mieux indiqué. 
+• Rôles des Parties Prenantes : 
+Les  principales  parties  prenantes  incluent  les  services  publics  (ministères,  OCC, 
+INERA), les  acteurs  du  secteur  privé  (fournisseurs,  distributeurs,  gestionnaires 
+opérationnels), les centres de recherche (notamment l’IITA), et les ONG/coopératives. 
+Une discussion sur le rôle de chacune de ces parties prenantes a été faite dans le plan 
+financier révisé. 
+• Plan Opérationnel : 
+
+Un plan opérationnel détaillé, couvrant les étapes de la production à la vente, a été 
+esquissé, identifiant les principaux acteurs à chaque étape. 
+• Politique de Distribution : 
+Des suggestions préliminaires pour une stratégie de distribution d’Aflasafe RDC01 ont 
+été incluses. Ce plan doit être développé sur base d’une étude de marché dans 
+différentes régions où Aflasafe sera commercialisé. 
+4.2 Progrès dans la Section Financière 
+• Coûts d’Investissement 
+Les coûts d’investissement nécessaires, y compris les actifs immobilisés existants et les 
+besoins en fonds de roulement, ont été recalculés. Des simulations pour les besoins en 
+fonds de roulement (de 3 mois à 1 an) ont été réalisées. 
+• Coûts Opérationnels et Revenus : 
+Les coûts opérationnels ont été examinés, et le coût de production par kilogramme 
+d’Aflasafe a été calculé. Les revenus ont été estimés sur la base des coûts de production 
+sur cinq ans (comparé au plan précédent de trois ans). 
+• Indicateurs Financiers : 
+Les principaux indicateurs financiers, notamment la VAN, le TRI et la période de retour 
+sur investissement, ont été calculés sur la base des flux de trésorerie annuels sur cinq 
+ans. 
+5. Limites majeures dans le plan d’affaire IITA recommandations principales. 
+La plus grande limite de ce plan d’affaires de l’IITA repose au fait qu’il n’y a pas eu une étude 
+de marché solide pour élaborer ce plan d’affaires.  Du rapport de la banque mondiale sur le 
+plan d’affaires de l’IITA,  il ressort que l’étude de marché est la recommandation principale 
+pour améliorer le plan d’affaire de l’IITA mais cette étude n’a pas été faite. L’absence d’une 
+étude de marché solide fait donc que ce plan d’affaires de l’usine Aflasafe ne peut pas être 
+considéré  comme définitif. Le manque d’une  étude de marché fait que le plan d’affaires 
+demeure avec un nombre important de limites.  
+- Le prix de revient n’est pas présenté dans différentes zones d’écoulement d’Aflasafe. 
+Connaitre ce cout  permettrait notamment de trouver des solutions pour harmoniser les 
+
+prix par régions. Faire une étude de marché qui permettrait donc de relever le prix de 
+revient dans chaque zone devient donc impérieux. 
+- Les acteurs clés, notamment clients, fournisseurs, distribuer, etc. ne sont pas clairement 
+identifiés  dans  ce  plan  d’affaires.  En  effet, comme  la description  sur  les clients 
+potentiels a été faite sans étude marché, du coup, les clients potentiels d’Aflasafe sont 
+relevés  sans  des  précisions  sur  les  acteurs  clés  dans  chaque  cible.  Il  serait  alors 
+intéressant de relever les clients réels qui seront disponibles à payer Aflasafe et faire une 
+étude sur le consentement à payer et fixer un prix qui tient non seulement compte des 
+couts mais aussi du consentement à payer par les cibles potentiels d’acheteurs. 
+L’absence d’une étude de marché a été soulevé aussi par les participants sur  comme un facteur 
+limitatif du plan d’affaires de production d’Aflasafe par les participant de l’Atelier National de 
+Sensibilisation  et d’Information  sur  les Aflatoxines et  leur Contrôle grâce à  l’Utilisation 
+d’Aflasafe RDC01. Nous recommandons donc une étude de marché rigoureuse avant la mise 
+à l’échelle de produit Aflasafe RDC01. Cette étude permettra de répondre aux différentes 
+limites relevées à la section 3 et aux recommandations de la banque mondiale auxquelles il  
+nous a été impossible de répondre sans étude de marché. 
+Les participants à l’atelier ont aussi émis le vœux de voir une étude du coté clients pour se 
+rassurer de l’impact économique de Aflasafe sur ce client, notamment par une analyse cout-
+bénéfice. Une telle étude serait intéressante dans le sens où l’adoption de l’Aflasafe RDC01 
+dépend essentiellement de l’impact que cela peut avoir sur les revenus. 
+Même si le partenariat public privé a été proposé comme modèle de gestion. Il reste à déterminer 
+le type de partenariat et les rôles précis dans chaque partie dans ce modèle de partenariat. Ceci 
+se ferait aussi par l’entremise d’une étude au niveau de l’offre pour savoir les mécanismes de 
+gestion qui conviendrait mieux aux privés qui serait disposés à entrer dans ce partenariat avec 
+l’Etat. 
+Fait à Kinshasa, le 20 décembre 2024. 
+Dr. Patrick MURHULA CUBAKA 
+ 
+ 
+Consultant et Professeur à l’Université Catholique de Bukavu. 

@@ -1,0 +1,6 @@
+# Ce dossier contient les fichiers de base de données SQLite
+# Les fichiers .db sont ignorés par .gitignore
+
+# En production Docker:
+# Ce dossier est monté comme volume persistant
+# docker-compose.yml: ./backend/data:/app/data
