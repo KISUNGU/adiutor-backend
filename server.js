@@ -174,12 +174,14 @@ runAllMigrations(db)
     console.log('🚀 Préparation du démarrage du serveur...');
     app.use(errorHandler);
     
-    const server = app.listen(port, () => {
-      logger.info(`✅ Serveur démarré sur http://localhost:${port}`);
+    // Railway nécessite d'écouter sur 0.0.0.0 pour accepter les connexions externes
+    const host = process.env.RAILWAY_ENVIRONMENT ? '0.0.0.0' : 'localhost';
+    const server = app.listen(port, host, () => {
+      logger.info(`✅ Serveur démarré sur http://${host}:${port}`);
       logger.info('🎯 Le serveur est maintenant en écoute...');
-      logger.info('📊 Métriques Prometheus: http://localhost:' + port + '/metrics');
-      logger.info('💚 Healthcheck: http://localhost:' + port + '/health');
-      console.log('✅ SERVER SUCCESSFULLY STARTED AND LISTENING');
+      logger.info('📊 Métriques Prometheus: http://' + host + ':' + port + '/metrics');
+      logger.info('💚 Healthcheck: http://' + host + ':' + port + '/health');
+      console.log('✅ SERVER SUCCESSFULLY STARTED AND LISTENING ON', host, ':', port);
     });
     
     logger.info('📝 app.listen() appelé, en attente de connexion au port...');
