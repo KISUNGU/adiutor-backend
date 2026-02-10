@@ -35,15 +35,21 @@ d8V8ZXMcMJmMdegsAXofptMiXA3GxNIWQtnWX//hhJE=
 ### Base de données
 ```bash
 DB_TYPE=sqlite
-SQLITE_DB_PATH=./data/mails.db3
+SQLITE_DB_PATH=/app/data/mails.db3  # Utiliser chemin absolu pour Railway Volume
 ```
+
+**⚠️ IMPORTANT**: SQLite nécessite un Volume Railway pour être persistant !
+Voir [RAILWAY_SQLITE_PERSISTENCE.md](RAILWAY_SQLITE_PERSISTENCE.md) pour la configuration.
 
 ### Serveur
 ```bash
-PORT=4000  # Railway définit automatiquement PORT
-ALLOWED_ORIGIN=https://votre-frontend.vercel.app
+PORT=4000  # Railway définit automatiquement PORT - NE PAS définir sur Railway
+ALLOWED_ORIGIN=https://votre-frontend.vercel.app,tauri://localhost
 LOG_LEVEL=info
 ```
+
+**Note**: `ALLOWED_ORIGIN` peut contenir plusieurs origines séparées par des virgules.
+Incluez `tauri://localhost` si vous utilisez Tauri pour l'application desktop.
 
 ### OpenAI (optionnel)
 ```bash

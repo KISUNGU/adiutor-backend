@@ -395,15 +395,28 @@ const rbacMeRoutes = require('./routes/rbacMe.routes');
 const healthRoutes = require('./routes/health.routes');
 
 // 🌐 CORS: activer tôt avec préflight explicite pour Vite (5173)
+// Support pour développement local + production (Railway) + Tauri
+const allowedOriginsBase = [
+  'http://localhost:5173',
+  'http://127.0.0.1:5173',
+  'http://localhost:5174',
+  'http://127.0.0.1:5174',
+  'http://localhost:5175',
+  'http://127.0.0.1:5175',
+  // Support Tauri (application de bureau)
+  'tauri://localhost',
+  'http://tauri.localhost',
+  'https://tauri.localhost'
+];
+
+// Ajouter ALLOWED_ORIGIN depuis les variables d'environnement (production)
+if (process.env.ALLOWED_ORIGIN) {
+  const envOrigins = process.env.ALLOWED_ORIGIN.split(',').map(o => o.trim());
+  allowedOriginsBase.push(...envOrigins);
+}
+
 const corsOptions = {
-  origin: [
-    'http://localhost:5173',
-    'http://127.0.0.1:5173',
-    'http://localhost:5174',
-    'http://127.0.0.1:5174',
-    'http://localhost:5175',
-    'http://127.0.0.1:5175'
-  ],
+  origin: allowedOriginsBase,
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With'],
   exposedHeaders: ['Content-Length', 'ETag'],
